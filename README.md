@@ -1,2 +1,2 @@
-# Egg-Production
+# Power BI Visual for Egg-Production
 This is a project about daily egg collection, mortality and feeding of a poultry. The company is deeply concerned with the inconsistency in the egg production of 36,000-layer birds, record of daily mortality on the four pen houses, the rising cost of the feeds and other expenses incurred compared to revenues. This Visual addresses the following deliverables using Power BI: 1. Replicate the egg collection, mortality, feeding sheet 2. Monthly revenue analysis (egg sales, mortality and feeding). Mortality costing is calculated based on the price of create of eggs and the current market price of a bird 3. Trend analysis of egg production and forecasting to advice bird disposition based on age of laying.
